@@ -1,6 +1,6 @@
 # Todo App
 
-# [Live Link](https://tudu.vercel.app)
+# [Live Link](https://tudus.vercel.app)
 
 ### This is a simple todo app built using React and styled with HTML/CSS. It allows users to add tasks, store them in local storage, mark them as completed, and delete them
 
