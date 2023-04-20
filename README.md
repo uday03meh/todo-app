@@ -2,7 +2,7 @@
 
 # [Live Link](https://tudus.vercel.app)
 
-### This is a simple todo app built using React and styled with HTML/CSS. It allows users to add tasks, store them in local storage, mark them as completed, and delete them
+### This is a todo app built using React and styled with HTML/CSS. It allows users to add tasks, store them in local storage, mark them as completed, and delete them
 
 ## Features
 
@@ -18,9 +18,9 @@
 
 To get started with the app, follow these steps:
 
-Clone this repository: git clone https://github.com/uday03meh/todo-app.git
+- Clone this repository: git clone https://github.com/uday03meh/todo-app.git
 
-Install dependencies: npm install
+- Install dependencies: npm install
 
-Start the app: npm start
+- Start the app: npm start
 
