@@ -18,7 +18,9 @@
 
 To get started with the app, follow these steps:
 
-Clone this repository: git clone https://github.com/yourusername/react-todo-app.git
+Clone this repository: git clone https://github.com/uday03meh/todo-app.git
+
 Install dependencies: npm install
+
 Start the app: npm start
 
